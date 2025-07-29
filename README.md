@@ -33,8 +33,8 @@ Hi! I'm **Juan Cruz Romero**, an enthusiastic Front End developer in training, a
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]() 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]((https://github.com/johon7nt))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]((https://www.instagram.com/john_7nt/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/john_7nt/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/johon7nt)
 
 ---
 

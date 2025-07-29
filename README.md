@@ -1,6 +1,5 @@
 # Hello World! < Frontenders /> 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=juancruzromero&color=blue)
 
 Hi! I'm **Juan Cruz Romero**, an enthusiastic Front End developer in training, always eager to learn and collaborate on real-world projects.
 

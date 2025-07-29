@@ -34,6 +34,7 @@ Hi! I'm **Juan Cruz Romero**, an enthusiastic Front End developer in training, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancruzromero) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/juancruzromero)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/john7_nt)
 
 ---
 

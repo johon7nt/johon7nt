@@ -49,6 +49,3 @@ Hi! I'm **Juan Cruz Romero**, an enthusiastic Front End developer in training, a
 
 > I'm a self-taught developer who started by fixing PCs and ended up building websites. Learning never stops.
 
----
-
-*Thanks for visiting my profile! Feel free to explore my repositories and connect.* 🚀

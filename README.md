@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 # Hello World! < Frontenders /> 👋
 
 
@@ -50,3 +51,4 @@ Hi! I'm **Juan Cruz Romero**, an enthusiastic Front End developer in training, a
 
 > I'm a self-taught developer who started by fixing PCs and ended up building websites. Learning never stops.
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>

@@ -57,10 +57,4 @@ Hi! I'm an enthusiastic Front End developer in training, always eager to learn a
 ![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juancruzromero&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juancruzromero&layout=compact&theme=react)
 
----
-
-### ✨ Fun Fact
-
-> I'm a self-taught developer who started by fixing PCs and ended up building websites. Learning never stops.
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
